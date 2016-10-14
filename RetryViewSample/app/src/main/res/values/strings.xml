@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RetryViewSample</string>
+    <string name="message">There was a problem connecting to the server. Please, try again.</string>
+
+    <string name="button_connect">Connect</string>
+    <string name="message_connect">Press the connect button to test the RetryView.</string>
+</resources>

@@ -1,0 +1,2 @@
+include ':app', ':retryview'
+project(':retryview').projectDir = new File(settingsDir, '../RetryView/retryview')
