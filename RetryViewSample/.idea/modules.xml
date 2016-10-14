@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/RetryViewSample.iml" filepath="$PROJECT_DIR$/RetryViewSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../retryview/retryview.iml" filepath="$PROJECT_DIR$/../retryview/retryview.iml" />
     </modules>
   </component>
 </project>
